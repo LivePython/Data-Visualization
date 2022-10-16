@@ -1,2 +1,2 @@
-# Data_science_note
+# Data visualization
 Note compiled for data science
